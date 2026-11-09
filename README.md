@@ -2,7 +2,7 @@
 
 This project uses the `01-starting-project` Vite/React starter project and the React slides supplied in class.
 
-## Requirements implemented
+## Project Overview
 
 - `src/App.jsx`: loads the Header, CoreConcepts and Examples components.
 - `src/components/CoreConcepts.jsx`: owns the Core Concepts section and renders each concept from the given `CORE_CONCEPTS` data.
